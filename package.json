@@ -8,7 +8,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "animejs": "^3.2.2",
     "oh-vue-icons": "^1.0.0-rc3",
     "sass": "^1.69.5",
     "vue": "^3.3.4"
